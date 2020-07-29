@@ -1,6 +1,6 @@
 # Hello World!
  Primeiro repositório versionado
 
- **Repositório de teste!**
+ **Repositório de teste!
  
  Linha adicionada pela *internet*!!!
