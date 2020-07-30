@@ -3,7 +3,7 @@
 
  __Repositório__ de teste!
  
- Linha adicionada pela *internet*!!!
+ ~Linha~ adicionada pela *internet*!!!
 ___
 
 # Titulo de nível 1
