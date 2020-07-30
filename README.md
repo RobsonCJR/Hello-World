@@ -31,3 +31,13 @@ ___
 - [ ] Divulgar;
 - [x] Monetizar;
 - [ ] Falar com os clientes.
+---
+
+# Lista demarcada:
+
+* Lista 1
+   * Lista 2
+   * Lista 3
+   * Lista 4
+* Lista 5
+* Lista 6
